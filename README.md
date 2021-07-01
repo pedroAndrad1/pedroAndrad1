@@ -15,6 +15,7 @@ Acredito que o conhecimento deve ser compartilhado e espero que meus projetos po
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pedro-paulo-araujo-de-andrade-4b273a18b/)
 
+[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dev.pedroandrade@gmail.com)
 
 
 
