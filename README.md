@@ -13,7 +13,7 @@ Acredito que o conhecimento deve ser compartilhado e espero que meus projetos po
 
 ### Onde me procurar 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/pedro-paulo-araujo-de-andrade-4b273a18b/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paulo-araujo-de-andrade-4b273a18b/)
 
 <a href="mailto:dev.pedroandrade@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
