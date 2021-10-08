@@ -5,9 +5,9 @@ Sou Pedro de Andrade, estudante de sistemas de informação na Universidade Fede
 ### No que estou me focando 👨‍💻
 Atualmente estou praticando desenvolvimento de SPA's (Single Page Applications) usando React ou Angular e estudando desenvolvimento de API's REST com Node js. Abaixo vocês podem ver meus últimos projetos.
 
-### Apenas Front-End?
+### Apenas Front-End e Back-End?
 
-Também tenho aqui estudos relacionados a outras áreas. Por exemplo, tenhos projetos de API's REST, há bastante material sobre Machine Learning com Python e estudos sobres estruturas de dados com Java.
+Também tenho aqui estudos relacionados a outras áreas. Por exemplo, há bastante material sobre Machine Learning com Python e estudos sobres estruturas de dados com Java.
 
 Acredito que o conhecimento deve ser compartilhado e espero que meus projetos possam te ajudar nos seus projetos.
 
