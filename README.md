@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Sou Pedro de Andrade, estudante de sistemas de informação na Universidade Federal do Estado do Rio de Janeiro (UNIRIO) e entusiasta de desenvolvimento Front-End.
+Sou Pedro de Andrade, desenvolvedor web Full Stack.
 
 ### No que estou me focando 👨‍💻
 Atualmente estou praticando desenvolvimento de SPA's (Single Page Applications) usando React ou Angular e estudando desenvolvimento de API's REST com Node js. Abaixo vocês podem ver meus últimos projetos.
