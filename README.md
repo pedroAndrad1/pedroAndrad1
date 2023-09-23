@@ -3,7 +3,7 @@
 Sou Pedro de Andrade, desenvolvedor web Full Stack.
 
 ### No que estou me focando 👨‍💻
-Atualmente estou praticando desenvolvimento de SPA's (Single Page Applications) usando React ou Angular e estudando desenvolvimento de API's REST com Node js. Abaixo vocês podem ver meus últimos projetos.
+Atualmente estou praticando desenvolvimento de aplicações web utilzando Next JS ou Angular e estudando desenvolvimento de API's REST com Node js e Graqhql. Abaixo vocês podem ver meus últimos projetos.
 
 ### Apenas Front-End e Back-End?
 
