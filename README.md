@@ -11,6 +11,12 @@ Também tenho aqui estudos relacionados a outras áreas. Por exemplo, há bastan
 
 Acredito que o conhecimento deve ser compartilhado e espero que meus projetos possam te ajudar nos seus projetos.
 
+### Portfólio
+
+No meu portfólio, link abaixo, você poderá ver alguns projetos meus em produção:
+
+https://linktr.ee/pedro.andrade
+
 ### Onde me procurar 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paulo-araujo-de-andrade-4b273a18b/)
