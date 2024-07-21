@@ -3,7 +3,7 @@
 Sou Pedro de Andrade, desenvolvedor web Full Stack.
 
 ### No que estou me focando 👨‍💻
-Atualmente estou praticando desenvolvimento de aplicações web utilizando a última versão do Next JS (13) e estudando desenvolvimento de API's REST com Java Spring Boot. Abaixo vocês podem ver meus últimos projetos.
+Atualmente estou praticando desenvolvimento de aplicações web utilizando o Next JS e estudando desenvolvimento de API's REST com .NET. Abaixo vocês podem ver meus últimos projetos.
 
 ### Apenas Front-End e Back-End?
 
